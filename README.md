@@ -2,7 +2,7 @@
 
 💻 Eu sou um desenvolvedor Back-End 
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy 
+🎓 Estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy 
 
 🔎 Sou entusiasta do desenvolvimento de jogos.
 
